@@ -1,0 +1,10 @@
+﻿
+.ui-block-a, .ui-block-b, .ui-block-c {
+    background-color: LightGray;
+    border: 1px solid black;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+}
+
